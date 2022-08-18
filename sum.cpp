@@ -7,3 +7,6 @@ main()
  cout<<a*b;
  cout<<a/b;
 }
+
+
+//wow

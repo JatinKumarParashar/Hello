@@ -6,3 +6,10 @@ main()
   cout<<a+b;
  cout<<a*b;
 }
+
+
+
+
+
+
+//Thank you again
